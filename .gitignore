@@ -1,1 +1,5 @@
 *.pyc
+updates*bz2
+*.o
+*.so
+*.a
